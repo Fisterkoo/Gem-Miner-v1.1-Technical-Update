@@ -1,7 +1,5 @@
 # Gem-Miner-v1.1-Technical-Update
 
-This is Gem Miner v1.1 (Technical Update)
-
 If you have created an account in older versions, you have to follow these instructions in order to continue, but if your new to this game, you just need to download the game and thats all!
 
 Anyway here are the instructions:
